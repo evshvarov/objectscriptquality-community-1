@@ -1,6 +1,6 @@
 # Analyze your open source code for free
 
-If you have your source code published on GitHub, you can analyze your ObjectScript code for free and check results in https://community.objectscriptquality.com.
+If you have your source code published on GitHub, you can analyze your InterSystems ObjectScript code for free and check results in https://community.objectscriptquality.com.
 
 You only need to create the file `.github/workflows/objectscript-quality.yml` in your project with following content:
 
